@@ -104,22 +104,18 @@ In order to make the code more efficient, we had to switch the nesting order of 
 
 ### Run time for All Stock Analysis
 
-***2017*** 
-
+2017
   ![2017 All Stock Analysis Run time](https://github.com/awalindeep/Stock-Analysis/blob/main/Resources/2017_All_Stock_Analysis.png)
 
 ***2018***
-
 ![2017 All Stock Analysis Run time](https://github.com/awalindeep/Stock-Analysis/blob/main/Resources/2018_All_Stock_Analysis.png)
 
 ### Run time for Refactored All Stock Analysis
 
 ***2017***
-
 ![2017 Refactored all stocks Analysis Run time](https://github.com/awalindeep/Stock-Analysis/blob/main/Resources/2017_Refactored_All_Stock_Analysis.png)
 
 ***2018***
-
 ![2018 Refactored all stocks Analysis Run time](https://github.com/awalindeep/Stock-Analysis/blob/main/Resources/2018_Refactored_All_Stock_Analysis.png)
 
 
@@ -127,9 +123,29 @@ In order to make the code more efficient, we had to switch the nesting order of 
 
 ### Pros and Cons of Refactoring Code
 
-Refactoring helps make our code cleaner and more organized. A few advantages of a cleaner code include design and software improvement, debugging, and faster programming. It may also benefit other users who view our projects because it becomes easier to read, as it is more concise and straightforward. However, we do not always have the luxury to refactor our code due to disadvantages. These disadvantages may range from having applications that are too large to not having the proper test cases for the existing codes, which may ultimately pose some risk if we try to refactor our code.
+Code refactoring can be defined as Continuous improvement of the code by different methods to make it better and efficient. 
 
-### The Advantages of Refactoring Stock Analysis
+##Pros
 
-The biggest benefit that occurred as a result of the refactoring was an decrease in macro run time. The original analysis took approximately one second to run, whereas our new analysis only took about a four of the time (approximately 0.25 seconds) to run. Attached below are the screenshots that indicate the run time for our new analysis.
+ 1. Helps make code cleaner and organized.
+ 2. Helps add new functionality to make code more efficient.
+ 3. Well structured Code will use less memory by taking fewer steps.
+ 4. Refactored code Improve the logic and capability of the code for easy of use.
 
+##Cons
+
+ 1. Refactoring can break the code and make it unusable.
+ 2. Refactoring code is time consuming process.
+ 3. If Code breaks one will end up spending way much more time solving the issue due to the complexity of the code.
+
+### The Advantages of Refactoring Stock Analysis.
+
+Advantage of Refactoring Stock analysis was that the run time of Macro was decreased significantly. 
+
+* 2017 
+     Our original code took 0.27 seconds to run year 2017 where as new refactored code just took 0.07 seconds.
+
+* 2018
+Similarly to 2017 our original code took  0.26 seconds on the contrary the refactored code took 0.8 seconds only. 
+
+This proves that by refactoring a code we can achieve much efficient results without changing functionality or behaviour of the macro. 
