@@ -167,7 +167,7 @@ Cells(4 + i, 3).Value = tickerEndingPrices(i) / tickerStartingPrices(i) - 1
 
   
 
-*********_2017*_****
+***2017***
 
   
 
@@ -175,7 +175,7 @@ Cells(4 + i, 3).Value = tickerEndingPrices(i) / tickerStartingPrices(i) - 1
 
   
 
-*********_2018*_****
+***2018***
 
   
 
@@ -187,7 +187,7 @@ Cells(4 + i, 3).Value = tickerEndingPrices(i) / tickerStartingPrices(i) - 1
 
   
 
-*********_2017*_****
+***2017***
 
   
 
@@ -195,7 +195,7 @@ Cells(4 + i, 3).Value = tickerEndingPrices(i) / tickerStartingPrices(i) - 1
 
   
 
-*********_2018*_****
+***2018***
 
   
 
