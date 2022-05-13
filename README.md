@@ -8,14 +8,14 @@ VBA Challenge Excel file: [VBA Challenge - Stock Analysis](https://github.com/aw
 
 ### Background of Project
 
-Steve Just graduated with Finance degree and his parents wanted to be his first clients. Steves parents are passionate about green energy and decided to invest their money in DAQO New Energy Corp. 
+Steve just graduated with Finance degree and his parents wanted to be his first clients. Steves parents are passionate about green energy and decided to invest their money in DAQO New Energy Corp. 
 
-Steve offered to look into DAQO stocks for his parents and wanted to diversify their funds. He wanted to analyze handful of green service energy stock and have created an excel stock data file for 2018 and 2018.
+Steve offered to look into DAQO stocks for his parents and wanted to diversify their funds. He wanted to analyze handful of green service energy stocks. He have created an excel stock data file for 2017 and 2018.
 
 Steve has asked to us to help with his data analysis. We prepared a workbook for him to run the analysis on the click of a button but is now looking to do an in-depth research for his parents. He wants to expand the dataset to entire stock market over last few years.  To achieve this we will have to refactor our existing code for him.
 
 
-###Purpose of project
+### Purpose of project
 
 The purpose of this project is to edit or refactor a Microsoft Excel VBA script to run the code faster. By refactoring the original code we will be adding new functionality that will collect stock information in the year 2017 and 2018 quicker and efficiently. Although the original code worked well with current dataset but would not be efficient for larger set of data. To reduce the time of result the we will be refactoring the the original code in this challenge.
 
