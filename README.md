@@ -12,16 +12,16 @@ Steve just graduated with Finance degree and his parents wanted to be his first 
 
 Steve offered to look into DAQO stocks for his parents and wanted to diversify their funds. He wanted to analyze handful of green service energy stocks. He have created an excel stock data file for 2017 and 2018.
 
-Steve has asked to us to help with his data analysis. We prepared a workbook for him to run the analysis on the click of a button but is now looking to do an in-depth research for his parents. He wants to expand the dataset to entire stock market over last few years.  To achieve this we will have to refactor our existing code for him.
+Steve has asked us to help with his data analysis. We prepared a workbook for him to run the analysis on the click of a button but he is now looking to do an in-depth research for his parents. He wants to expand the dataset to entire stock market over last few years.  To achieve this we will have to refactor our existing VBA code for him.
 
 
 ### Purpose of project
 
-The purpose of this project is to edit or refactor a Microsoft Excel VBA script to run the code faster. By refactoring the original code we will be adding new functionality that will collect stock information in the year 2017 and 2018 quicker and efficiently. Although the original code worked well with current dataset but would not be efficient for larger set of data. To reduce the time of result the we will be refactoring the the original code in this challenge.
+The purpose of this project is to edit or refactor a Microsoft Excel VBA script to run the code faster. By refactoring the original code we will be adding new functionality that will collect stock information in the year 2017 and 2018 quicker and efficiently. Although the original code worked well with current dataset but would not be efficient for larger set of data. To reduce the time of result we will be refactoring the original code in this challenge.
 
 ### The Project Data
 
-We will be using same data that Steve initially presented to run our run time analysis. This data  included two charts with stock information on 12 different stocks from 2017 and 2018 . The stock information contains a ticker value, the date the stock was issued, the open, close and adjusted closing prices. It also includes the highest and lowest price, along with the volume of each stock. The goal here for us is to refactor the starter code provided and loop though retrieve the ticker, the total daily volume, and the return on each stock one time and collect all the information. 
+We will be using same data that Steve initially presented to run our macro run-time analysis. This data  included two charts with stock information on 12 different stocks from 2017 and 2018 . The stock information contains a ticker value, the date of stock was issued. The open, close and adjusted closing prices of stocks. It also includes the highest and lowest price, along with the volume of each stock. The goal here for us is to refactor the starter code provided and loop though retrieve the ticker, the total daily volume, and the return on each stock one time and collect all the information. 
 
 ## Results
 
