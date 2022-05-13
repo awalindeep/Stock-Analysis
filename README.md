@@ -143,14 +143,14 @@ This proves that by refactoring a code we can achieve much efficient results wit
 
 Code refactoring can be defined as continuous improvement of the code by different methods to make it better and efficient. There are serveral pros and cons of refactoring codes. 
 
-##Pros
+## Pros
 
  1. Helps make code cleaner and organized.
  2. Helps add new functionality to make code more efficient.
  3. Well structured Code will use less memory by taking fewer steps.
  4. Refactored code Improve the logic and capability of the code for ease of use.
 
-##Cons
+## Cons
 
  1. Refactoring can break the code and make it unsutable.
  2. Refactoring code is time consuming process.
