@@ -104,8 +104,8 @@ In order to make the code more efficient, we had to switch the nesting order of 
 
 ### Run time for All Stock Analysis
 
-2017
-  ![2017 All Stock Analysis Run time](https://github.com/awalindeep/Stock-Analysis/blob/main/Resources/2017_All_Stock_Analysis.png)
+***2017***
+ ![2017 All Stock Analysis Run time](https://github.com/awalindeep/Stock-Analysis/blob/main/Resources/2017_All_Stock_Analysis.png)
 
 ***2018***
 ![2017 All Stock Analysis Run time](https://github.com/awalindeep/Stock-Analysis/blob/main/Resources/2018_All_Stock_Analysis.png)
@@ -113,10 +113,11 @@ In order to make the code more efficient, we had to switch the nesting order of 
 ### Run time for Refactored All Stock Analysis
 
 ***2017***
-![2017 Refactored all stocks Analysis Run time](https://github.com/awalindeep/Stock-Analysis/blob/main/Resources/2017_Refactored_All_Stock_Analysis.png)
+![2017 Refactored all stocks Analysis Run time](https://github.com/awalindeep/Stock-Analysis/blob/main/Resources/VBA_Challenge_2017.png)
 
 ***2018***
-![2018 Refactored all stocks Analysis Run time](https://github.com/awalindeep/Stock-Analysis/blob/main/Resources/2018_Refactored_All_Stock_Analysis.png)
+![2018 Refactored all stocks Analysis Run time](https://github.com/awalindeep/Stock-Analysis/blob/main/Resources/VBA_Challenge_2018.png)
+
 
 
 ##Summary
@@ -149,3 +150,4 @@ Advantage of Refactoring Stock analysis was that the run time of Macro was decre
 Similarly to 2017 our original code took  0.26 seconds on the contrary the refactored code took 0.8 seconds only. 
 
 This proves that by refactoring a code we can achieve much efficient results without changing functionality or behaviour of the macro. 
+
