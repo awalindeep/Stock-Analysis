@@ -124,7 +124,7 @@ In order to make the code more efficient, we had to switch the nesting order of 
 
 
 
-##Summary
+## Summary
 
 ### The advantages or disadvantages of refactoring code.
 
