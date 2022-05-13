@@ -105,17 +105,21 @@ In order to make the code more efficient, we had to switch the nesting order of 
 ### Run time for All Stock Analysis
 
 ***2017***
+
  ![2017 All Stock Analysis Run time](https://github.com/awalindeep/Stock-Analysis/blob/main/Resources/2017_All_Stock_Analysis.png)
 
 ***2018***
+
 ![2017 All Stock Analysis Run time](https://github.com/awalindeep/Stock-Analysis/blob/main/Resources/2018_All_Stock_Analysis.png)
 
 ### Run time for Refactored All Stock Analysis
 
 ***2017***
+
 ![2017 Refactored all stocks Analysis Run time](https://github.com/awalindeep/Stock-Analysis/blob/main/Resources/VBA_Challenge_2017.png)
 
 ***2018***
+
 ![2018 Refactored all stocks Analysis Run time](https://github.com/awalindeep/Stock-Analysis/blob/main/Resources/VBA_Challenge_2018.png)
 
 
