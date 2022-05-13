@@ -221,13 +221,13 @@ Advantage of Refactoring Stock analysis was that the run time of Macro was decre
 
 * 2017
 
-Our original code took 0.27 seconds to run year 2017 where as new refactored code just took 0.07 seconds.
+** Our original code took 0.27 seconds to run year 2017 where as new refactored code just took 0.07 seconds.
 
   
 
 * 2018
 
-Similarly to 2017 our original code took  0.26 seconds on the contrary the refactored code took 0.8 seconds only.
+** Similarly to 2017 our original code took  0.26 seconds on the contrary the refactored code took 0.8 seconds only.
 
   
 
