@@ -21,7 +21,7 @@ The purpose of this project is to edit or refactor a Microsoft Excel VBA script 
 
 ### The Project Data
 
-We will be using same data that Steve initially presented to run our macro run-time analysis. This data  includes two charts with stock information on 12 different stocks from 2017 and 2018 . The stock information contains a ticker value of stocks issued as well as the open, close and adjusted closing prices of stocks. It also includes the highest and lowest price, along with the volume of each stock. The goal here for us is to refactor the starter code and loop though and retrieve the ticker. Extract the total daily volume, and return on each stock. Run all the anlysis one time and collect relevant information. 
+We will be using same data that Steve initially presented to run our macro run-time analysis. This data  includes two charts with stock information on 12 different stocks from 2017 and 2018 . The stock information contains a ticker value of stocks issued as well as the open, close and adjusted closing prices of stocks. It also includes the highest and lowest price, along with the volume of each stock. The goal here for us is to refactor the starter code, loop though and retrieve the ticker. Extract the total daily volume and return on each stock. Run all the anlysis one time and collect relevant information. 
 
 ## Results
 
@@ -126,24 +126,7 @@ In order to make the code more efficient, we had to switch the nesting order of 
 
 ##Summary
 
-### Pros and Cons of Refactoring Code
-
-Code refactoring can be defined as Continuous improvement of the code by different methods to make it better and efficient. 
-
-##Pros
-
- 1. Helps make code cleaner and organized.
- 2. Helps add new functionality to make code more efficient.
- 3. Well structured Code will use less memory by taking fewer steps.
- 4. Refactored code Improve the logic and capability of the code for easy of use.
-
-##Cons
-
- 1. Refactoring can break the code and make it unusable.
- 2. Refactoring code is time consuming process.
- 3. If Code breaks one will end up spending way much more time solving the issue due to the complexity of the code.
-
-### The Advantages of Refactoring Stock Analysis.
+### The advantages or disadvantages of refactoring code.
 
 Advantage of Refactoring Stock analysis was that the run time of Macro was decreased significantly. 
 
@@ -153,5 +136,25 @@ Advantage of Refactoring Stock analysis was that the run time of Macro was decre
 * 2018
 Similarly to 2017 our original code took  0.26 seconds on the contrary the refactored code took 0.8 seconds only. 
 
-This proves that by refactoring a code we can achieve much efficient results without changing functionality or behaviour of the macro. 
+
+This proves that by refactoring a code we can achieve much efficient results without changing functionality or behaviour of the macro and have major advantages. 
+
+### Pros and Cons that apply to refactoring the VBA script
+
+Code refactoring can be defined as continuous improvement of the code by different methods to make it better and efficient. There are serveral pros and cons of refactoring codes. 
+
+##Pros
+
+ 1. Helps make code cleaner and organized.
+ 2. Helps add new functionality to make code more efficient.
+ 3. Well structured Code will use less memory by taking fewer steps.
+ 4. Refactored code Improve the logic and capability of the code for ease of use.
+
+##Cons
+
+ 1. Refactoring can break the code and make it unsutable.
+ 2. Refactoring code is time consuming process.
+ 3. If Code breaks one will end up spending more time fixing the issue, due to the complexity of the code.
+
+
 
