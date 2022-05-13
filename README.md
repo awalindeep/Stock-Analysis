@@ -21,7 +21,7 @@ The purpose of this project is to edit or refactor a Microsoft Excel VBA script 
 
 ### The Project Data
 
-We will be using same data that Steve initially presented to run our macro run-time analysis. This data  included two charts with stock information on 12 different stocks from 2017 and 2018 . The stock information contains a ticker value, the date of stock was issued. The open, close and adjusted closing prices of stocks. It also includes the highest and lowest price, along with the volume of each stock. The goal here for us is to refactor the starter code provided and loop though retrieve the ticker, the total daily volume, and the return on each stock one time and collect all the information. 
+We will be using same data that Steve initially presented to run our macro run-time analysis. This data  included two charts with stock information on 12 different stocks from 2017 and 2018 . The stock information contains a ticker value, the date of stock was issued. The open, close and adjusted closing prices of stocks. It also includes the highest and lowest price, along with the volume of each stock. The goal here for us is to refactor the starter code and loop though and retrieve the ticker. Extract the total daily volume, and return on each stock. Run all the anlysis one time and collect relevant information. 
 
 ## Results
 
